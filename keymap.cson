@@ -1,0 +1,7 @@
+'body':
+  'ctrl-f': 'editor:go-char-right'
+  'ctrl-b': 'editor:go-char-left'
+  'ctrl-p': 'editor:go-line-up'
+  'ctrl-n': 'editor:go-line-down'
+  'alt-f': 'editor:go-word-right'
+  'alt-b': 'editor:go-word-left'
